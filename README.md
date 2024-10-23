@@ -1,5 +1,6 @@
 # Clustering
-In this clustering problem, I have implemented three Unsupervised Learning algorithms: the Mixture of Gaussians, Mean Shift, and Normalized Cut, and explained the difference between the three models. 
+In this clustering problem, I have implemented three Unsupervised Learning algorithms: the Mixture of Gaussians, Mean Shift, and Normalized Cut, and explained the difference between the three models. These algorithms were implemented on the handwritten digits MNIST dataset.
+
 
 Below are the results and differences between these models:
 ### 1. Mixture of Gaussians
